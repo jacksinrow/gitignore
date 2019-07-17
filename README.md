@@ -21,6 +21,8 @@ iOS：Xcode 相关内容过滤，开发语言：Objective-C/Swift 等相关过�
 
 以上具体内容请参见相关文件。
 
+**请注意：Android Studio/Xcode 本身可能会产生默认的 .gitignore 文件，先将默认的 .gitignore 文件移除掉，然后用我们的已经确定的 .gitignore 文件模板。**
+
 ## 中途 `.gitignore` 文件变更该如何处理？
 
 中途 `.gitignore` 文件变更有两种情况，一种是中途加入内容到 `.gitignore` 文件，另外一种是中途从 `.gitignore` 文件中移除内容。
